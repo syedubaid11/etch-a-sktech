@@ -1,0 +1,22 @@
+
+body{
+    display:flex;
+    align-items: center;
+    flex-direction: column;
+
+}
+
+.board{
+        width:500px;
+        height:500px;
+        display:grid;
+        border:1;
+}
+.container {
+    display: grid;
+    width: 700px;
+    height: 400px;
+    background-color: #e0e0e0;
+    border:#acacac solid ;
+    margin: auto; 
+}
